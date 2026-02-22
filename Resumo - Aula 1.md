@@ -100,15 +100,6 @@
 
 ---
 
-## 9. Expectativas de Aprendizagem
-
-- Compreensão do papel estratégico da TI.
-- Desenvolvimento de visão sistêmica organizacional.
-- Capacidade de analisar arquiteturas e modelos de planejamento estratégico.
-- Relação entre infraestrutura tecnológica e processos de negócio.
-
----
-
 ## 10. Conclusão
 
 A Tecnologia da Informação deixou de ser apenas um suporte operacional e passou a ocupar posição estratégica nas organizações.  
