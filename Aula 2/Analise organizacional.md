@@ -1,12 +1,8 @@
 # Análise Organizacional — Apple Inc.
 
-
-::contentReference[oaicite:0]{index=0}
-
-
 ## 1. Descrição Organizacional
 
-A **:contentReference[oaicite:1]{index=1}** é uma empresa multinacional norte-americana de tecnologia fundada em 1º de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne. Sua sede está localizada em Cupertino, Califórnia, nos Estados Unidos.
+A Apple é uma empresa multinacional norte-americana de tecnologia fundada em 1º de abril de 1976 por Steve Jobs, Steve Wozniak e Ronald Wayne. Sua sede está localizada em Cupertino, Califórnia, nos Estados Unidos.
 
 A organização atua no **segmento de tecnologia**, com foco no desenvolvimento, fabricação e comercialização de:
 
